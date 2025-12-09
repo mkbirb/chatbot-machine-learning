@@ -6,7 +6,7 @@ Machine Learning Project that predicts the Target Capacity and the Target Case C
 
 
 ## 🏗️ Built Using
-**Platform:** Google Colab Notebook
+**Platform:** Google Colab Notebook <br>
 **Languages:** Python <br>
 
 ## 🚀 Installation
